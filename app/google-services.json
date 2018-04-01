@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "286067941503",
+    "firebase_url": "https://popotoan-849fb.firebaseio.com",
+    "project_id": "popotoan-849fb",
+    "storage_bucket": "popotoan-849fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286067941503:android:fbaa218e51b00a1d",
+        "android_client_info": {
+          "package_name": "com.rahmaniaaas.popotoan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286067941503-u93fjbk42ti3napk6vq4ec2cuk1mrjbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3MzyLJRCt6dhWaa5h-ZBTrNshc3uJ1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
